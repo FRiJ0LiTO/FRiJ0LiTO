@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**FRiJ0LiTO/FRiJ0LiTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space!
 
-Here are some ideas to get you started:
+I'm an enthusiastic aspiring backend developer and current student. Throughout my journey, I've gained valuable experience working with technologies like FastAPI Python and Node.js on various projects. My passion for backend development and Linux environments drives me to constantly seek new challenges and growth opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I’m currently working on:
+
+- Improving my skills in backend development.
+- Learning more about Linux environments and their application in software development.
+
+#### 🌱 I’m currently learning:
+
+- Development of scalable and efficient applications.
+- Process automation and DevOps.
+
+#### 💼 Professional goals:
+
+- Contributing positively to impactful projects.
+- Collaborating in multidisciplinary teams to develop innovative solutions.
+
+#### 📫 How to reach me:
+
+I'm open to collaborations and exciting opportunities! Feel free to contact me via [my email](cabrerajaime877@gmail.com) or [my LinkedIn profile](https://www.linkedin.com/in/jaime-cabrera-py/).
+
+#### ⚡ Fun facts:
+
+- I love solving complex problems and finding elegant solutions.
+- I'm passionate about technology and always stay up to date with the latest trends in software development.
+- I adore Mexican cuisine and enjoy discovering new Mexican restaurants and eateries!
+
