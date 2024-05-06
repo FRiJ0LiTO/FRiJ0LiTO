@@ -21,7 +21,7 @@ I'm an enthusiastic aspiring backend developer and current student. Throughout m
 
 #### 📫 How to reach me:
 
-I'm open to collaborations and exciting opportunities! Feel free to contact me via [my email](cabrerajaime877@gmail.com) or [my LinkedIn profile](https://www.linkedin.com/in/jaime-cabrera-py/).
+I'm open to collaborations and exciting opportunities! Feel free to contact me via [my LinkedIn profile](https://www.linkedin.com/in/jaime-cabrera-py/).
 
 #### ⚡ Fun facts:
 
