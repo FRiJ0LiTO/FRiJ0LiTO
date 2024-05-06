@@ -29,3 +29,5 @@ I'm open to collaborations and exciting opportunities! Feel free to contact me v
 - I'm passionate about technology and always stay up to date with the latest trends in software development.
 - I adore Mexican cuisine and enjoy discovering new Mexican restaurants and eateries!
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
